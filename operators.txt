@@ -1,0 +1,22 @@
+What is a operator?
+An operator is a symbol that operates on a value or a variable
+
+Arithmetic Operators
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+% Remainder
+
+Increment and Decrement Operators
+++ To increase the value by 1
+-- To decrease the value by 1
+
+Assigment Operator
+= It is used to assign the value to a variable
++= eg: a += b, it is same as a = a + b.
+-= eg: a -= b, it is same as a = a - b.
+*= eg: a *= b, it is same as a = a * b.
+/= eg: a /= b, it is same as a = a / b.
+%= eg: a %= b, it is same as a = a % b.
+
