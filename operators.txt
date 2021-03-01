@@ -1,6 +1,9 @@
 What is a operator?
 An operator is a symbol that operates on a value or a variable
 
+6 + 7
+a + b
+
 Arithmetic Operators
 + Addition
 - Subtraction
@@ -12,6 +15,7 @@ Increment and Decrement Operators
 ++ To increase the value by 1
 -- To decrease the value by 1
 
+
 Assigment Operator
 = It is used to assign the value to a variable
 += eg: a += b, it is same as a = a + b.
@@ -20,3 +24,20 @@ Assigment Operator
 /= eg: a /= b, it is same as a = a / b.
 %= eg: a %= b, it is same as a = a % b.
 
+Relationals Operators
+1. ==	Equal to	                5 == 3 is evaluated to 0
+2. >	Greater than	            5 > 3 is evaluated to 1
+3. <	Less than	                5 < 3 is evaluated to 0
+4. !=	Not equal to	            5 != 3 is evaluated to 1
+5. >=	Greater than or equal to	5 >= 3 is evaluated to 1
+6. <=	Less than or equal to	    5 <= 3 is evaluated to 0
+
+
+
+
+Logical Operators
+1. &&	Logical AND. True only if all operands are true	If c = 5 and d = 2 then, expression ((c==5) && (d>5)) equals to 0.
+
+2. ||	Logical OR. True only if either one operand is true	If c = 5 and d = 2 then, expression ((c==5) || (d>5)) equals to 1.
+
+3. !	Logical NOT. True only if the operand is 0	If c = 5 then, expression !(c==5) equals to 0.
