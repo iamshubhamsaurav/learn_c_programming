@@ -25,6 +25,11 @@ Assigment Operator
 %= eg: a %= b, it is same as a = a % b.
 
 Relationals Operators
+
+A relational operator checks the relationship between two operands. If the relation is true, it returns 1; if the relation is false, it returns value 0.
+
+Relational operators are used in decision making and loops.
+
 1. ==	Equal to	                5 == 3 is evaluated to 0
 2. >	Greater than	            5 > 3 is evaluated to 1
 3. <	Less than	                5 < 3 is evaluated to 0
