@@ -2,12 +2,20 @@
 int main()
 {
 
-    int i = 0;
-    while (i < 5)
+    // int i = 0;
+    // while (i < 5)
+    // {
+    //     printf("%d Hello World\n", i);
+    //     i++;
+    // }
+
+    int i = 5;
+    while (i > 0)
     {
         printf("%d Hello World\n", i);
-        i++;
+        i--;
     }
+
     /*
     i = 0;
     Hello World, i = 1
