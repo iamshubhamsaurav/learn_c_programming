@@ -1,0 +1,26 @@
+An array is a variable that can store multiple values.
+
+Types of array:
+    1. Single Dimesional Array
+    2. Multi-Dimesional Array
+
+
+Declaring an array
+dataType arrayName[arraySize];
+eg:
+int marks[5];
+float salaries[5];
+
+
+Initialize An Array
+int mark[5] = {19, 10, 8, 17, 9};
+or 
+int mark[] = {19, 10, 8, 17, 9};
+
+
+Indexing starts from 0
+marks[0];
+marks[1];
+
+
+
